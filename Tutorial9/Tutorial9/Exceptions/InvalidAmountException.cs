@@ -1,6 +1,6 @@
 namespace Tutorial9.Exceptions;
 
-public class InvalidAmount : Exception
+public class InvalidAmountException : Exception
 {
     
 }
